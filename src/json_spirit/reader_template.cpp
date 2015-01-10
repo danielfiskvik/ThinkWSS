@@ -1,0 +1,1 @@
+#include "../../include/json_spirit/reader_template.h"

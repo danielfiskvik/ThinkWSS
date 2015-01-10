@@ -1,0 +1,1 @@
+#include "../../include/json_spirit/writer_template.h"
